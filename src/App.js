@@ -4,6 +4,7 @@ import Header from "./components/Global/Footer/Header";
 import { Route, Routes } from "react-router-dom";
 import Home from "./components/Pages/Home/Home";
 import Shop from "./components/Pages/Shop/Shop";
+import Notfound from "./components/Pages/Notfound/Notfound";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Route path="/cart" element={<Home></Home>}></Route>
       <Route path="/my-account" element={<Home></Home>}></Route>
       <Route path="/Contact" element={<Home></Home>}></Route>
+      <Route path="*" element={<Notfound></Notfound>}></Route>
     </Routes>
   
 

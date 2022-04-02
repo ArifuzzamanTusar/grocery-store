@@ -1,0 +1,6 @@
+.product_title , .product_image{
+    cursor: pointer;
+}
+.product_title:hover{
+    color: grey;
+}
