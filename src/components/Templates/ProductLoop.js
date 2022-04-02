@@ -7,9 +7,7 @@ import './ProductLoop.css';
 const ProductLoop = (props) => {
     const { id, name, image, price } = props.data;
     const navigate = useNavigate();
-    const showProductDetals = () =>{
-        navigate(`/product/${id}`);
-    }
+    const showProductDetals = () =>{navigate(`/product/${id}`)}
     return (
         <Col md={3}>
             <div className="product-area p-2 my-3 shadow rounded">
