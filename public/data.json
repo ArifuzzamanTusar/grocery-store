@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "price": 3,
+        "name": "Apple",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/apple_f8ntwd.jpg"
+    },
+    {
+        "id": 2,
+        "price": 6,
+        "name": "Apricot",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246295/fruit/apricot_rghc2o.jpg"
+    },
+    {
+        "id": 3,
+        "price": 2,
+        "name": "Avocado",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/avocado_f0tt89.jpg"
+    },
+    {
+        "id": 4,
+        "price": 1,
+        "name": "Banana",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/banana_avsajg.jpg"
+    },
+    {
+        "id": 5,
+        "price": 2,
+        "name": "Cherry",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/cherry_c5gdla.jpg"
+    },
+    {
+        "id": 6,
+        "price": 11,
+        "name": "Coconut",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/coconut_aymkh4.jpg"
+    },
+    {
+        "id": 7,
+        "price": 8,
+        "name": "Grapes",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246295/fruit/grapes_uudjex.jpg"
+    },
+    {
+        "id": 8,
+        "price": 15,
+        "name": "Guava",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246295/fruit/guava_cl01ey.jpg"
+    },
+    {
+        "id": 9,
+        "price": 13,
+        "name": "Lemon",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246295/fruit/lemon_nsfe4r.jpg"
+    },
+    {
+        "id": 10,
+        "price": 22,
+        "name": "Lichi",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246295/fruit/lichi_xibahn.jpg"
+    },
+    {
+        "id": 11,
+        "price": 6,
+        "name": "Mango",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/mango_a2koka.jpg"
+    },
+    {
+        "id": 12,
+        "price": 7,
+        "name": "Watermelon",
+        "image": "https://res.cloudinary.com/tusar/image/upload/v1648246296/fruit/watermelon_gkw4he.jpg"
+    }
+
+]
